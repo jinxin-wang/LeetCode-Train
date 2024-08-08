@@ -7,6 +7,9 @@
 4. [力扣讨论区](https://leetcode.cn/circle/discuss/E3yavq/)
 5. [力扣讨论区](https://leetcode.cn/circle/discuss/wGp7Y9/)
 
+https://pan.baidu.com/s/1Ruqf71ifa9hsu9zh5wS1Dg
+pwd=loef
+
 ### 选定攻略
 
 ### 刷题计划
